@@ -21,6 +21,14 @@
   - [ ] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
   - [ ] Effective Ruby
+    - [ ] 第1章 Rubyに身体を慣らす
+    - [ ] 第2章 クラス、オブジェクト、モジュール
+    - [ ] 第3章 コレクション
+    - [ ] 第4章 例外
+    - [ ] 第5章 メタプログラミング
+    - [ ] 第6章 テスティング
+    - [ ] 第7章 ツールとライブラリ
+    - [ ] 第8章 メモリ管理とパフォーマンス
 - JavaScript
   - [ ] [JavaScript(Progate)](https://prog-8.com/languages/es6)
   - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
